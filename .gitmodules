@@ -1,0 +1,9 @@
+[submodule "ai/task1"]
+	path = ai/task1
+	url = https://github.com/alterAI01/ai-task1.git
+[submodule "ai/task2"]
+	path = ai/task2
+	url = https://github.com/alterAI01/ai-task2.git
+[submodule "ai/task3"]
+	path = ai/task3
+	url = https://github.com/alterAI01/ai-task3.git
